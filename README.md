@@ -1,0 +1,2 @@
+# RightSpell
+Bangkit Capstone Project
