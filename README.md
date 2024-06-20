@@ -1,2 +1,2 @@
 # RightSpell
-Bangkit Capstone Project
+This repository is for Capstone Project in [Dicoding Academy](https://www.dicoding.com/). This application is purpose to help user to get hotel recommendations.
