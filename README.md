@@ -26,14 +26,14 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 
 # Build Tools & Libraries
 
-* Cloud Computing
--Google App Engine
-Firestore
-Oauth 2.0
-Hapi.js
-Cloud Storage Bucket
+[Cloud Computing]
+- Google App Engine
+- Firestore
+- Oauth 2.0
+- Hapi.js
+- Cloud Storage Bucket
 
-* Mobile Development
+[Mobile Development]
 - Kotlin
 - LiveData
 - ViewModel
