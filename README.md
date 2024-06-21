@@ -41,6 +41,9 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 - Retrofit
 - Navigation Ui
 
+# Demo
+[![Demo Video]([https://www.youtube.com/watch?v=your_video_id](https://github.com/salsabila139/RightSpell/blob/resource/WhatsApp%20Video%202024-06-21%20at%2015.04.40.mp4))
+
 # Screenshoot UI Aplication
 <p align="center">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20022849.png">
