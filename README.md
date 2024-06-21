@@ -27,6 +27,9 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 
 
 # Build Tools & Libraries
+[Machine Learning]
+- Google Colab
+- Python
 
 [Cloud Computing]
 - Google App Engine
