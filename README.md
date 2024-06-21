@@ -46,7 +46,8 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 - Retrofit
 - Navigation Ui
 
-# presentations and project demo
+# Presentations and Project Demo
+[ Right Spell](https://www.youtube.com/watch?v=8chddJKryqY)
 
 # Screenshoot UI Aplication
 <p align="center">
