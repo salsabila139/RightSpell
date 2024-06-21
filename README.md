@@ -56,4 +56,10 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20023151.png">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20023236.png">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20023301.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162233.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162220.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162213.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162159.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162150.png">
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/Screenshot%202024-06-21%20162134.png">
 </p>
