@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Right Spell v0.1</string>
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Please Sign In to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN\n</string>
+    <string name="orLoginWith">Or login with\n</string>
+    <string name="create_account">Create Account</string>
+    <string name="username">Username\n</string>
+    <string name="input_below_here">Please fill the input below here\n</string>
+    <string name="signup">SIGN UP</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signin">Sign In</string>
+    <string name="already_have_a_account">Already have a account?</string>
+    <string name="donot_have_a_account">Don\'t have a account?\n</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+</resources>
