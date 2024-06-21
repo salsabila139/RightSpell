@@ -46,11 +46,11 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 - Retrofit
 - Navigation Ui
 
+# presentations and project demo
 
 # Screenshoot UI Aplication
 <p align="center">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20022849.png">
-
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20022935.png">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20023005.png">
 <img src="https://github.com/MuhammadFaturochman/right-spell-mobile/blob/resource/Screenshot%202024-06-21%20023151.png">
