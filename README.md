@@ -19,8 +19,10 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 - Register Account
 - Simple UI
 
-
 # Cloud Architecture
+<img src="https://github.com/salsabila139/RightSpell/blob/resource/WhatsApp%20Image%202024-06-21%20at%2015.00.49.jpeg">
+
+# Mobile Architecture
 <img src="https://github.com/salsabila139/RightSpell/blob/resource/WhatsApp%20Image%202024-06-21%20at%2015.00.49.jpeg">
 
 
@@ -41,8 +43,6 @@ This repository is for Capstone Project in[ Dicoding Academy](https://www.dicodi
 - Retrofit
 - Navigation Ui
 
-# Demo
-[![Demo Video]([https://www.youtube.com/watch?v=your_video_id](https://github.com/salsabila139/RightSpell/blob/resource/WhatsApp%20Video%202024-06-21%20at%2015.04.40.mp4))
 
 # Screenshoot UI Aplication
 <p align="center">
